@@ -25,7 +25,7 @@ fail early and often.
 
 3 stages of prototyping:
 
-{{local:img/3-stages-prototyping.png|3 stages of prototyping graph}}
+{{local:../img/3-stages-prototyping.png|3 stages of prototyping graph}}
 
 === Designing the prototype ===
 choose what to prototype for, identify measurable design goals

@@ -16,7 +16,7 @@ how much should you tailor?
 === Ergonomics ===
 peripherals, posture, stuff like this
 
-{{local:img/ergonomic-keyboards.png|Ergonomic keyboard design}}
+{{local:../img/ergonomic-keyboards.png|Ergonomic keyboard design}}
 
 === Computers for older people ===
 usage related to socio-economic group, with wealth and education critical
