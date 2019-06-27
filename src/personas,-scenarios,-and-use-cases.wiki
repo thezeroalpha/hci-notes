@@ -84,3 +84,20 @@ Define what the product will do before designing how.
 Focus on user-system interaction instead of user's task itself.
 Describe processes as text or use case diagram
 
+structure:
+* users are actors - user types or categories
+* use case consists of:
+    * header:
+        * name of use case
+        * goal of use case
+        * scope and level use case is covering
+        * preconditions
+        * success/failure conditions
+        * trigger that starts use case
+        * notes on performance, frequency, etc.
+    * steps (each assumed to be successful):
+        * description narrative
+        * variations
+        * notes
+    * exceptions
+        * notation is per step
